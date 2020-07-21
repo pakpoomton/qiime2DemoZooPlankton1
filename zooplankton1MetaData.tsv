@@ -1,0 +1,11 @@
+sample-id	barcode-sequence	sample-source
+#q2:types	categorical	categorical
+G1	AAA	chlorella
+G2	ACA	chlorella
+G3	AGA	chlorella
+R1	TTT	moina
+R2	TCT	moina
+R3	TGT	moina
+S1	CAC	branchinella
+S2	CCC	branchinella
+S3	CGC	branchinella
